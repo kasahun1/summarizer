@@ -10,7 +10,7 @@
 - implement copy to clipboard
 - write clean code
 
-.[![srn_image].(../assets/logo.svg)].(jsmastery.pro)
+!.[srn_image].(././assets/logo.svg)
 
 
 
